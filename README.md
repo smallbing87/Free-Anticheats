@@ -1,5 +1,5 @@
 # NoCheatPlus  
-[Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/lastSuccessfulBuild/artifact/target/NoCheatPlus.jar) / ProtocolLib is highly recommended.  
+[Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/lastSuccessfulBuild/artifact/target/NoCheatPlus.jar) / [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) is highly recommended.  
   The anticheat itself isn't good at all, but pretty good being a secondary one, since it patches almost all of the exploits of vanilla bugs and other anticheat bypasses.    
 
 # GrimAC  
@@ -11,5 +11,5 @@ Basically the best free option out there, with one of the best simulation/moveme
 Jacks of all trades, master of none. The free version was released by Frap (Vulcan owner) himself to patch the operation exploit for the cracked plugin users.  
 
 # Matrix  
-[Download](https://github.com/Super-Macintosh/matrix-trial-archive/raw/main/Matrix_6.7.0_release.jar) / Packet Event and ProtocolLib are necessary.  
+[Download](https://github.com/Super-Macintosh/matrix-trial-archive/raw/main/Matrix_6.7.0_release.jar) / [PacketEvents](https://modrinth.com/plugin/packetevents) and [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) are necessary.  
 Pretty outdated, but got a KillAura detecting bot that clients like Vape can't bypass. It's a free trail version used to be in the Matrix's website but got discontinued.
