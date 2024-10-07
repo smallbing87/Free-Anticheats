@@ -7,7 +7,7 @@ Consider Themis as a Vulcan alternative, and Medusa and/or Reflex as Matrix alte
 
 # GrimAC  
 [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/)  
-Basically the best free option out there, with one of the best simulation/movement checks on the internet. Also detects any reach, even more consistent than others like karhu.  
+Basically the best free option out there, with one of the best simulation/movement checks on the internet. Also detects any reach, even more consistent than others like Karhu.  
 
 # NoCheatPlus  
 [Download](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/lastSuccessfulBuild/artifact/target/NoCheatPlus.jar) / [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) is highly recommended.  
