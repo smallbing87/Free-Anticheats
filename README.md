@@ -3,6 +3,7 @@ For 1 anticheats, Grim is good for pvp servers, Vulcan is good for survival serv
 For 2 anticheats, I recommend some anticheat combos like Grim+NCP/Vulcan+NCP/Matrix+NCP/Vulcan+Grim, etc.  
 For 3 anticheats, use Grim+NCP and choose one between Vulcan and Matrix will be good.  
 For 4 anticheats, you definitely got insane server base for this decision.
+Consider Themis as a Vulcan alternative, and Medusa and/or Reflex as Matrix alternatives.    
 
 # GrimAC  
 [Download](https://www.spigotmc.org/resources/grim-anticheat.99923/)  
@@ -19,3 +20,15 @@ Jacks of all trades, master of none. The free version was released by Frap (Vulc
 # Matrix  
 [Download](https://github.com/Super-Macintosh/matrix-trial-archive/raw/main/Matrix_6.7.0_release.jar) / [PacketEvents](https://modrinth.com/plugin/packetevents) and [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) are necessary.  
 Pretty outdated, but got a KillAura detecting bot that clients like Vape can't bypass. It's a free trail version used to be in the Matrix's website but got discontinued.
+
+# Themis    
+[Download](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-21-bedrock-support-paper-compatibility-free-optimized.90766)    
+Use this if you doesn't feel like using any of these above.     
+
+# Medusa    
+[Download](https://www.spigotmc.org/resources/medusa-anticheat-lite.83345)
+Discontinued, but probably have a decent movement check.    
+
+# Reflex    
+[Download](https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/download/v11.3-5-Moonlight/reflex-boot-2.7.0.jar)    
+Discontinued, likely have good killaura check, but lots of false flags.    
