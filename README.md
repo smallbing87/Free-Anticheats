@@ -26,11 +26,9 @@ Pretty outdated, but got a KillAura detecting bot that clients like Vape can't b
 Use this if you don't feel like using any of these above.     
 
 # Medusa    
-[Download](https://www.spigotmc.org/resources/medusa-anticheat-lite.83345)
-
+[Download](https://www.spigotmc.org/resources/medusa-anticheat-lite.83345)    
 Discontinued, but probably have a decent movement check.    
 
 # Reflex    
 [Download](https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/download/v11.3-5-Moonlight/reflex-boot-2.7.0.jar)    
-
 Discontinued, likely have good killaura check, but lots of false flags.    
