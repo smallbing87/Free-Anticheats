@@ -31,4 +31,4 @@ Discontinued, but probably have a decent movement check.
 
 # Reflex    
 [Download](https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/download/v11.3-5-Moonlight/reflex-boot-2.7.0.jar)    
-Discontinued, likely have good killaura check, but lots of false flags.    
+Discontinued, likely got good killaura check, but lots of false flags.    
