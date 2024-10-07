@@ -23,7 +23,7 @@ Pretty outdated, but got a KillAura detecting bot that clients like Vape can't b
 
 # Themis    
 [Download](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-21-bedrock-support-paper-compatibility-free-optimized.90766) / [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) is necessary.    
-Use this if you doesn't feel like using any of these above.     
+Use this if you don't feel like using any of these above.     
 
 # Medusa    
 [Download](https://www.spigotmc.org/resources/medusa-anticheat-lite.83345)
