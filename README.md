@@ -2,7 +2,7 @@ Please made your own config because all the anticheats listed below are extremel
 For 1 anticheats, Grim is good for pvp servers, Vulcan is good for survival servers.  
 For 2 anticheats, I recommend some anticheat combos like Grim+NCP/Vulcan+NCP/Matrix+NCP/Vulcan+Grim, etc.  
 For 3 anticheats, use Grim+NCP and choose one between Vulcan and Matrix will be good.  
-For 4 anticheats, you definitely got insane server base for this decision.
+For 4 anticheats, you definitely got insane server base for this decision.    
 Consider Themis as a Vulcan alternative, and Medusa and/or Reflex as Matrix alternatives.    
 
 # GrimAC  
