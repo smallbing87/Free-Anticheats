@@ -10,7 +10,7 @@ The anticheat itself isn't good at all, but pretty good being a secondary one, s
 
 # Intave
 [Download](https://github.com/intave/intave/releases/download/nightly/Intave.jar)
-A paid version of Grim basically, but discontinued (or almost about to). The developers released the source-code of it to work on Polar instead.
+A paid version of Grim basically, but the developers discontinued it to work on Polar instead, then released the source-code of it.
 
 # Vulcan  
 [Download](https://www.mediafire.com/file/jenyttggjao9hf3/Vulcan-2.8.5.jar/file)  
